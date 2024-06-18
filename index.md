@@ -19,7 +19,7 @@ i am getting older. i do not recover quickly.
 
 when i feel stressed i run. it is a low cost way to move.
 
-### Over running
+### Running too far
 
 when i run, i feel a need to prove to myself that i am a runner. i begin my jog planning a 5k... i hit my mark an push it further until i cannot stand... then i push it further to make it back home.  
 
@@ -29,4 +29,4 @@ today my knee hurts. my thinking is slow. i cannot focus. i pushed it too hard. 
 
 ### Foolishness
 
-i know my line of thinkiing is ridiculous. i know that it would serve me betterto do a moderate amount of exerise daily rather than binge and encourage injury... but i like the feeling of pushing myself to the limit.
+i know my line of thinkiing is ridiculous. i know that it would serve me better to do a moderate amount of exercise daily rather than binge and encourage injury... but i like the feeling of pushing myself to the limit.
