@@ -4,7 +4,7 @@ date = "2024-06-18"
 description = "Do not overtrain"
 author = "Justin Napolitano"
 tags = ['lifestyle','training']
-categories = ['Personal']
+categories = ['reflection']
 images = ["images/featured-image.svg"]
 +++
 
