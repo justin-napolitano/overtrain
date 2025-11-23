@@ -1,33 +1,41 @@
-+++
-title =  "Overtrain"
-date = "2024-06-18"
-description = "Do not overtrain"
-author = "Justin Napolitano"
-tags = ['lifestyle','training']
-categories = ['reflection']
-images = ["images/featured-image.svg"]
-+++
+---
+slug: "github-overtrain"
+title: "overtrain"
+repo: "justin-napolitano/overtrain"
+githubUrl: "https://github.com/justin-napolitano/overtrain"
+generatedAt: "2025-11-23T09:23:26.374729Z"
+source: "github-auto"
+---
 
 
-## Why
+# Overtrain: A Technical Reflection on Excessive Physical Training
 
-i like to exercise. i like to over-exercise. i do not listen to my body when it needs rest. i feel as if more movement is more better.
+## Motivation
 
-i am getting older. i do not recover quickly.  
-   
- 
-## Running
+This project serves as a personal technical journal documenting the behavioral and physiological consequences of overtraining. The motivation lies in understanding the fine line between productive exercise and injury-inducing excess, particularly as physical recovery slows with age.
 
-when i feel stressed i run. it is a low cost way to move.
+## Problem Statement
 
-### Running too far
+Excessive physical training without adequate recovery leads to injury, decreased performance, and impaired cognitive function. This project addresses the need to document and analyze these effects through structured reflection.
 
-when i run, i feel a need to prove to myself that i am a runner. i begin my jog planning a 5k... i hit my mark an push it further until i cannot stand... then i push it further to make it back home.  
+## Implementation Details
 
-### Injury
+The project is implemented as a markdown-based journal entry (`index.md`) capturing qualitative data about exercise habits, mental state, and injury symptoms. The content is structured with sections outlining motivations, running habits, injury experiences, and cognitive effects.
 
-today my knee hurts. my thinking is slow. i cannot focus. i pushed it too hard.  i had not too long ago been in the shape to handle a 10k and some calisthenics. i am not currently. my body more or less told me so, but i chose to ignore it to prove to myself that i am strong. 
+The use of markdown allows for simple, version-controlled documentation without additional dependencies or complexity. This approach emphasizes lightweight, accessible record-keeping over automated data collection.
 
-### Foolishness
+## Technical and Practical Considerations
 
-i know my line of thinkiing is ridiculous. i know that it would serve me better to do a moderate amount of exercise daily rather than binge and encourage injury... but i like the feeling of pushing myself to the limit.
+- **Data Structure**: The project uses plain markdown with front matter metadata (title, date, tags, categories) to organize content semantically.
+
+- **Content Focus**: The narrative prioritizes candid self-assessment over prescriptive advice, avoiding motivational or life-coaching language.
+
+- **Extensibility**: The current format supports incremental additions and potential integration with static site generators or data visualization tools.
+
+- **Limitations**: The lack of automated data capture or analysis limits quantitative insights but preserves a human-centered perspective.
+
+## Summary
+
+Overtrain documents the experiential realities of pushing physical limits beyond sustainable thresholds. It provides a reference point for future technical exploration of training data, recovery strategies, and the cognitive impacts of physical stress. The project’s minimalist implementation reflects a deliberate choice to prioritize reflective clarity over technological complexity.
+
+
