@@ -1,12 +1,27 @@
 ---
-slug: "github-overtrain"
-title: "overtrain"
-repo: "justin-napolitano/overtrain"
-githubUrl: "https://github.com/justin-napolitano/overtrain"
-generatedAt: "2025-11-23T09:23:26.374729Z"
-source: "github-auto"
+slug: github-overtrain
+title: 'Overtrain: Technical Journal on Physical Overtraining Effects'
+repo: justin-napolitano/overtrain
+githubUrl: https://github.com/justin-napolitano/overtrain
+generatedAt: '2025-11-23T09:23:26.374729Z'
+source: github-auto
+summary: >-
+  Markdown-based journal documenting behavioral and physiological impacts of excessive physical
+  training and recovery challenges.
+tags:
+  - markdown
+  - physical-training
+  - overtraining
+  - personal-journal
+  - data-documentation
+seoPrimaryKeyword: overtraining
+seoSecondaryKeywords:
+  - physical training
+  - markdown journal
+  - recovery
+  - exercise data
+seoOptimized: true
 ---
-
 
 # Overtrain: A Technical Reflection on Excessive Physical Training
 
@@ -37,5 +52,6 @@ The use of markdown allows for simple, version-controlled documentation without 
 ## Summary
 
 Overtrain documents the experiential realities of pushing physical limits beyond sustainable thresholds. It provides a reference point for future technical exploration of training data, recovery strategies, and the cognitive impacts of physical stress. The project’s minimalist implementation reflects a deliberate choice to prioritize reflective clarity over technological complexity.
+
 
 
