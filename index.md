@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - recovery
   - exercise data
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The post is a markdown-based personal technical journal documenting physical training effects and
+  reflections, matching 'Personal' family focused on journals, health, habits, and lifestyle. It is
+  not about automation, data science, or static site generation.
 ---
 
 # Overtrain: A Technical Reflection on Excessive Physical Training
@@ -52,6 +58,7 @@ The use of markdown allows for simple, version-controlled documentation without 
 ## Summary
 
 Overtrain documents the experiential realities of pushing physical limits beyond sustainable thresholds. It provides a reference point for future technical exploration of training data, recovery strategies, and the cognitive impacts of physical stress. The project’s minimalist implementation reflects a deliberate choice to prioritize reflective clarity over technological complexity.
+
 
 
 
