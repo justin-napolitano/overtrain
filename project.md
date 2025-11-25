@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/overtrain
 generatedAt: '2025-11-24T21:35:51.297Z'
 source: github-auto
 summary: >-
-  A personal project documenting the effects of overtraining through markdown
-  journaling and reflections on exercise habits.
+  A personal project documenting the effects of overtraining through markdown journaling and
+  reflections on exercise habits.
 tags:
   - markdown
   - overtraining
@@ -24,8 +24,8 @@ seoSecondaryKeywords:
   - static site integration
   - data analysis
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -76,6 +76,7 @@ git clone https://github.com/justin-napolitano/overtrain.git
 
 
 ---
+
 
 
 
