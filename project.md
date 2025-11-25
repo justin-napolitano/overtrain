@@ -1,20 +1,29 @@
 ---
 slug: github-overtrain
 id: github-overtrain
-title: Overtrain
+title: 'Exploring Overtraining: Insights and Reflections'
 repo: justin-napolitano/overtrain
 githubUrl: https://github.com/justin-napolitano/overtrain
 generatedAt: '2025-11-24T21:35:51.297Z'
 source: github-auto
 summary: >-
-  A reflective personal project exploring the consequences of excessive exercise
-  and the challenges of balancing physical training with recovery. This
-  repository captures insights on overtraining through journaling and
-  self-observation.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A personal project documenting the effects of overtraining through markdown
+  journaling and reflections on exercise habits.
+tags:
+  - markdown
+  - overtraining
+  - exercise
+  - static site
+  - data visualization
+  - self-observation
+seoPrimaryKeyword: overtraining journal
+seoSecondaryKeywords:
+  - exercise habits
+  - markdown documentation
+  - training recovery
+  - static site integration
+  - data analysis
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
